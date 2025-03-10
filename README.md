@@ -5,7 +5,7 @@ Student
 -------
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm learning C# ASP.net core , JavaScript
+* 🧠  I'm learning AI,DevOp
 
 ### Skills
 
