@@ -13,7 +13,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Badges
 
 # Finlove – Online Dating Application
-=============================================================================================================================================
 Finlove เป็นแอปพลิเคชันหาคู่เดทออนไลน์ที่พัฒนาด้วยแนวคิด Hybrid Recommendation System โดยใช้เทคนิค Machine Learning ผสมผสานหลายรูปแบบเพื่อเพิ่มความแม่นยำในการจับคู่ผู้ใช้งาน
 
 <img alt="image" width="200" src="https://github.com/user-attachments/assets/7548245d-1872-4b1b-96cf-be9ebeab9f84" />
