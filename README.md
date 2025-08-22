@@ -20,5 +20,5 @@ Student
 
 <b>My GitHub Stats</b>
 
-<img height="777" alt="image" src="https://github.com/user-attachments/assets/7548245d-1872-4b1b-96cf-be9ebeab9f84" />
+<img alt="image" width="500" src="https://github.com/user-attachments/assets/7548245d-1872-4b1b-96cf-be9ebeab9f84" />
 
