@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://discord.com/users/Minova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/Jiratikarn Prisricram" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/JiratikarnDo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/jiratikarn_do" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
 # 🚀Finlove – Online Dating Application
-Finlove เป็นแอปพลิเคชันหาคู่เดทออนไลน์ที่พัฒนาด้วยแนวคิด Hybrid Recommendation System โดยใช้เทคนิค Machine Learning ผสมผสานหลายรูปแบบเพื่อเพิ่มความแม่นยำในการจับคู่ผู้ใช้งาน
+Finlove เป็นเว็บแอพแอปพลิเคชันหาคู่เดทออนไลน์ที่พัฒนาด้วยแนวคิด Hybrid Recommendation System โดยใช้เทคนิค Machine Learning ผสมผสานหลายรูปแบบเพื่อเพิ่มความแม่นยำในการจับคู่ผู้ใช้งาน
 
 ✨ Key Features
 - ระบบจับคู่ด้วย Hybrid Machine Learning Recommendation
@@ -27,8 +27,20 @@ Finlove เป็นแอปพลิเคชันหาคู่เดทอ
 
 
 
+# 🎓TQF มอค.
+TQF มอค. เป็นเว็บแอพพลิเคชั่นสำหรับ จัดการเอกสาร มคอ. สำหรับอาจารย์และสถาบันการศึกษา
+
+✨ Key Features
+- รองรับการสร้าง แก้ไข และจัดเก็บเอกสาร มคอ.
+- พัฒนา Front-end ด้วย React / Bootstrap
+- พัฒนา Back-end ด้วย Node.js + Express และเชื่อมต่อฐานข้อมูล MySQL
+- ออกแบบระบบสิทธิ์ผู้ใช้งาน (อาจารย์ / ผู้ดูแลระบบ)
+- เน้นการใช้งานง่าย และช่วยลดเวลาการทำงานของอาจารย์
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/34c59c21-4208-4cc9-ae01-bb804d9478b0" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/9b0430cb-aefd-4514-83db-89d056f97c41" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/59ea1335-ee15-44bd-9594-53212e2b7b92" />
 
 
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/18244b06-2bcc-40c7-be42-70743817e830" />
 
 
