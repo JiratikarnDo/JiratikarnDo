@@ -20,5 +20,8 @@ Student
 
 <b>My GitHub Stats</b>
 
-<img alt="image" width="500" src="https://github.com/user-attachments/assets/7548245d-1872-4b1b-96cf-be9ebeab9f84" />
+<img alt="image" width="200" src="https://github.com/user-attachments/assets/7548245d-1872-4b1b-96cf-be9ebeab9f84" />
+<img width="200"  alt="image" src="https://github.com/user-attachments/assets/e0812d58-c5ae-4ea3-91b8-bd09cd3c8af1" />
+<img width="200"  alt="image" src="https://github.com/user-attachments/assets/266ddb18-b38c-4c83-b191-a8941047104a" />
+<img width="200"  alt="image" src="https://github.com/user-attachments/assets/1b2b203e-b7c4-4867-ab6c-4529901074e1" />
 
